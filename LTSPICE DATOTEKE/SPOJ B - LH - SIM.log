@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ B - LH - SIM.net
+Start Time: Wed Jun 10 15:37:12 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.064 seconds.
+
+Files loaded:
+C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ B - LH - SIM.net
+C:\Users\nikol\AppData\Local\LTspice\lib\cmp\standard.bjt
+

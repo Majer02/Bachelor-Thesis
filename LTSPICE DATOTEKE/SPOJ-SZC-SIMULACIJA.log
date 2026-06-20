@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ-SZC-SIMULACIJA.net
-Start Time: Sun May 24 18:19:12 2026
+Start Time: Sat Jun 20 16:06:56 2026
 Options:maxstep=2u
 solver = Normal
 Maximum thread count: 8
@@ -8,9 +8,24 @@ tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.340 seconds.
+Total elapsed time: 1.093 seconds.
 
 Files loaded:
 C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ-SZC-SIMULACIJA.net
 C:\Users\nikol\AppData\Local\LTspice\lib\cmp\standard.bjt
 
+vavg2: AVG(V(n019) )=-2.38619024381e-05 FROM 0.001 TO 0.01
+vmin2: MIN(V(n019) )=-2.82575511932 FROM 0.001 TO 0.01
+vmax2: MAX(V(n019) )=4.45739746094 FROM 0.001 TO 0.01
+vavg1: AVG(V(n017) )=-1.06651677672e-05 FROM 0.001 TO 0.01
+vmin1: MIN(V(n017) )=-1.83513593674 FROM 0.001 TO 0.01
+vmax1: MAX(V(n017) )=3.39707016945 FROM 0.001 TO 0.01
+vavg3: AVG(V(n021) )=-9.16094209188e-05 FROM 0.001 TO 0.01
+vmin3: MIN(V(n021) )=-3.91111683846 FROM 0.001 TO 0.01
+vmax3: MAX(V(n021) )=5.2881603241 FROM 0.001 TO 0.01
+vavg4: AVG(V(n023) )=-0.000349497492559 FROM 0.001 TO 0.01
+vmin4: MIN(V(n023) )=-4.51750850677 FROM 0.001 TO 0.01
+vmax4: MAX(V(n023) )=5.6240901947 FROM 0.001 TO 0.01
+vavg5: AVG(V(n025) )=-0.00103977728379 FROM 0.001 TO 0.01
+vmin5: MIN(V(n025) )=-4.91643667221 FROM 0.001 TO 0.01
+vmax5: MAX(V(n025) )=5.79607915878 FROM 0.001 TO 0.01
