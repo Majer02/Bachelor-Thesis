@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ-SZC-SIMULACIJA.net
-Start Time: Sat Jun 20 16:06:56 2026
+Start Time: Sat Jun 20 16:37:47 2026
 Options:maxstep=2u
 solver = Normal
 Maximum thread count: 8
@@ -8,7 +8,7 @@ tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 1.093 seconds.
+Total elapsed time: 0.191 seconds.
 
 Files loaded:
 C:\Users\nikol\OneDrive\Documents\2526 - LJETNI SEMESTAR\Bachelor-Thesis\LTSPICE DATOTEKE\SPOJ-SZC-SIMULACIJA.net
